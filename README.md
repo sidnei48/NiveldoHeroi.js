@@ -1,1 +1,1 @@
-Esse projeto foi criado com base dos estudos na plataforma DIO, para armazenar o nome e a experiencia do "Herói", foi usado a linguagem: JAVASCRIPT.
+Esse projeto foi criado com base dos estudos na plataforma DIO com parceria da Santander, relacionado a fundamentos e logica de programação. Foram criado codigos que armazena experiencia do "Herói", realiza acões e calcula o nivel do "Herói" foi usado a linguagem: JAVASCRIPT.
